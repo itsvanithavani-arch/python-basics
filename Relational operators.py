@@ -1,0 +1,8 @@
+a=input("Enter a name:")
+b=input("Enter a name:")
+print(a==b)
+print(a>b)
+print(a>=b)
+print(a<b)
+print(a<=b)
+print(a!=b)
